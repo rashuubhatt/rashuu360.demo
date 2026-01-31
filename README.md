@@ -24,6 +24,8 @@ This project focuses on basic logic building ,user intereactions and real world 
 
   ##👤Author
   Rashid Bhat
+  <br>
   B.Tech CSE student
+  <br>
   GitHub : https://github.com/rashuubhatt
   
